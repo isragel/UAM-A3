@@ -1,3 +1,8 @@
+// Aluno: Israel Guerra Yamane
+// Disciplina: Estrutura de Dados
+
+
+
 import java.util.ArrayDeque;
 import java.util.ArrayList;
 
@@ -48,6 +53,6 @@ public class Atividade3 {
 }
 
 
-//A ordem dos números exibidos é diferente da ordem em que foram inseridos porque na pilha o último a entrar é o
-primeiro a sair, “Last In, First Out”, por isso a exibição dos números foi diferente do que foi inserido.
+/*A ordem dos números exibidos é diferente da ordem em que foram inseridos porque na pilha o último a entrar é o
+primeiro a sair, “Last In, First Out”, por isso a exibição dos números foi diferente do que foi inserido.*/
 
